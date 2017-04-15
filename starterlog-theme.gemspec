@@ -2,12 +2,12 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "starterlog-theme"
-  spec.version       = "1.1.1"
+  spec.version       = "1.1.3"
   spec.authors       = ["Brian Hooper"]
   spec.email         = ["afellowhobbyist@gmail.com"]
 
-  spec.summary       = "A Minimal Jekyll Theme for Hobbyists and Technical Writers"
-  spec.homepage      = "https://github.com/Copyleft-io/starterlog-theme"
+  spec.summary       = "A Minimal Jekyll Theme for Technical Writers"
+  spec.homepage      = "https://github.com/gadgetry-io/theme"
   spec.license       = "MPL-2.0"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|

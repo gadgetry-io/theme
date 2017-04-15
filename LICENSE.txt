@@ -1,6 +1,6 @@
 Mozilla Public License 2.0 (MPL-2.0)
 
-(c) 2016 by Brian Hooper at Copyleft.io
+(c) 2016 by Brian Hooper at Gadgetry.io
 
 Mozilla Public License, version 2.0
 1. Definitions

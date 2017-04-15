@@ -1,13 +1,13 @@
 # SEO settings
-title: "Starter Log"
-description: "A minimalist Jekyll theme for Hobbyists and Technical Writers."
-keywords: "Jekyll, theme, open source, download, SEO, web, minimalist, hobbyist, copyleft.io, starterlog, starterlog.io"
-url: https://github.com/Copyleft-io/starterlog-theme #site url
+title: "StarterLog"
+description: "A minimalist Jekyll theme for Technical Writers."
+keywords: "Jekyll, theme, open source, download, SEO, web, minimalist, hobbyist, gadgetry-io, starterlog, starterlog.io"
+url: https://github.com/gadgetry-io/theme #site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 #google_analytics: UA-XXXXX-XX
-repo: https://github.com/Copyleft-io/starterlog-theme
+repo: https://github.com/gadgetry-io/theme
 #disqus_shortname: "FellowHobbyist"
 #twitter_username: "FelloWHobbyist"
 #comments: true
@@ -34,8 +34,8 @@ include: ['_pages']
 # Author settings
 author:
   name     : "Brian Hooper"
-  job      : "Hobbyist and Technology Professional"
-  bio      : "An open source workafrolic who enjoys service the communities where we live, learn, work, and play."
+  job      : "Open Source Practitioner and Technology Professional"
+  bio      : "Skilled Practitioner focused on advanced business capabilities delivered through Open Source Technology and Cloud Based Services"
   thumb    : /images/author.jpg
   email    : afellowhobbyist@gmail.com
   url      : http://fellowhobbyist.github.io

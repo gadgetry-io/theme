@@ -71,27 +71,27 @@ Core components such as bootstrap, font-awesome, jquery, and lunr.js were used t
 
 <hr>
 ### Home Page
-![Alt text](https://github.com/Copyleft-io/starterlog-theme/blob/master/docs/images/home.png "Home Page")
+![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/home.png "Home Page")
 
 <hr>
 ### Palette
-![Alt text](https://github.com/Copyleft-io/starterlog-theme/blob/master/docs/images/palette.png "Palette")
+![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/palette.png "Palette")
 
 <hr>
 ### Custom Bootstrap Theme
-![Alt text](https://github.com/Copyleft-io/starterlog-theme/blob/master/docs/images/theme.png "Custom Theme")
+![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/theme.png "Custom Theme")
 
 <hr>
 ### Lunr Search
-![Alt text](https://github.com/Copyleft-io/starterlog-theme/blob/master/docs/images/search.png "Lunr Search")
+![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/search.png "Lunr Search")
 
 <hr>
 ### Search Results
-![Alt text](https://github.com/Copyleft-io/starterlog-theme/blob/master/docs/images/search-results.png "Search Results")
+![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/search-results.png "Search Results")
 
 <hr>
 ### Static Page Templates
-![Alt text](https://github.com/Copyleft-io/starterlog-theme/blob/master/docs/images/about.png "About")
+![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/about.png "About")
 
 
 <br>
