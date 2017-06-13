@@ -118,7 +118,7 @@ EXAMPLE:
 
 <hr>
 ### Static Page Templates
-![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/about.png "About")
+![Alt text](docs/images/about.png "About")
 
 
 
