@@ -10,9 +10,9 @@ The theme is available as open source under the terms of the [MPL-2.0 License](h
 
 ### Dependencies
 
-Ruby Version = 2.3.0p0
-Bundler Version 1.12.5
-Jekyll Version = 3.2.1
+- Ruby Version = 2.3.0p0
+- Bundler Version 1.12.5
+- Jekyll Version = 3.2.1
 
 
 ### Getting Started
