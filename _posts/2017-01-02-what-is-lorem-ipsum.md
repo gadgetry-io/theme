@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Lorem Ipsum?"
-date:   2016-09-02 00:00:00 -0600
+date:   2017-01-02 00:00:00 -0600
 categories: bacon ipsum
 ---
 

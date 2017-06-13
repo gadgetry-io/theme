@@ -64,10 +64,37 @@ Core components such as bootstrap, font-awesome, jquery, and lunr.js were used t
       assets                ## FONTS, IMAGES, SCRIPTS, STYLES
         fonts
         images
+        modules
+          reveal.js
         scripts
         styles
 
-## Screenshots
+
+## HTML Presentations
+
+Reveal.js is now included in the theme and allows you to create HTML presentations directly in your Jekyll site as a simple Post using HTML and Markdown syntax.
+
+In the Front Matter of any Jekyll Post on your site, simply use the slide layout and specify the reveal.js theme you wish to use.
+
+EXAMPLE:
+
+    ---
+    layout: slide
+    title: Sample Presentation
+    description: A presentation slide for how to use reveal.js in Jekyll
+    theme: white
+    transition: slide
+    date:   2017-01-03 00:00:00 -0600
+    categories: presentation
+    ---
+
+<hr>
+### Reveal.js HTML Presentations
+![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/slide.png "Presentations")
+
+
+
+## Additional Screenshots
 
 <hr>
 ### Home Page
@@ -94,6 +121,8 @@ Core components such as bootstrap, font-awesome, jquery, and lunr.js were used t
 ![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/about.png "About")
 
 
+
+
 <br>
 <br>
 ## Contributing
@@ -104,4 +133,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/gadget
 
 To set up your environment to develop this theme, run `bundle install`.
 
-You theme is setup just like a normal Jekyll site! To test your theme, run `jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to this theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+You theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to this theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.

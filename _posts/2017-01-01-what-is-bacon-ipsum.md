@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Bacon Ipsum?"
-date:   2016-09-01 00:00:00 -0600
+date:   2017-01-01 00:00:00 -0600
 categories: bacon ipsum
 ---
 
