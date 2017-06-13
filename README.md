@@ -89,35 +89,47 @@ EXAMPLE:
     ---
 
 <hr>
+
 ### Reveal.js HTML Presentations
-![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/slide.png "Presentations")
+
+![Alt text](./docs/images/slide.png?raw=true "Presentations")
 
 
 
 ## Additional Screenshots
 
 <hr>
+
 ### Home Page
-![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/home.png "Home Page")
+
+![Alt text](./docs/images/home.png?raw=true "Home Page")
 
 <hr>
+
 ### Palette
-![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/palette.png "Palette")
+
+![Alt text](./docs/images/palette.png?raw=true "Palette")
 
 <hr>
+
 ### Custom Bootstrap Theme
-![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/theme.png "Custom Theme")
+
+![Alt text](./docs/images/theme.png?raw=true "Custom Theme")
 
 <hr>
+
 ### Lunr Search
-![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/search.png "Lunr Search")
+
+![Alt text](./docs/images/search.png?raw=true "Lunr Search")
 
 <hr>
+
 ### Search Results
 
-![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/search-results.png "Search Results")
+![Alt text](./docs/images/search-results.png?raw=true "Search Results")
 
 <hr>
+
 ### Static Page Templates
 
 ![Alt text](./docs/images/about.png?raw=true "About")
