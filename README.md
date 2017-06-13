@@ -118,8 +118,7 @@ EXAMPLE:
 
 <hr>
 ### Static Page Templates
-![Alt text](/docs/images/about.png?raw=true "About")
-
+![Alt text](./docs/images/about.png?raw=true "About")
 
 
 
