@@ -114,10 +114,12 @@ EXAMPLE:
 
 <hr>
 ### Search Results
+
 ![Alt text](https://github.com/gadgetry-io/theme/blob/master/docs/images/search-results.png "Search Results")
 
 <hr>
 ### Static Page Templates
+
 ![Alt text](./docs/images/about.png?raw=true "About")
 
 
