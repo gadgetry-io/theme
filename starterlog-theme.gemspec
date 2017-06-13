@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "starterlog-theme"
-  spec.version       = "1.1.3"
+  spec.version       = "1.2.0"
   spec.authors       = ["Brian Hooper"]
   spec.email         = ["afellowhobbyist@gmail.com"]
 
